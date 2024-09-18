@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\queries\\getcategory\\getcategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\queries\\getcategory\\getcategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\queries\\getcategory\\getcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\queries\\getcategory\\getcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\queries\\getallcategories\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\queries\\getallcategories\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\queries\\getallcategories\\getallcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\queries\\getallcategories\\getallcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\commands\\createcategory\\createcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\commands\\createcategory\\createcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\commands\\createcategory\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\commands\\createcategory\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\catalogbackend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\catalogbackend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\categoryservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\categoryservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\queries\\getallcategories\\getallcategoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\queries\\getallcategories\\getallcategoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.tests\\features\\categories\\categorycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|solutionrelative:catalogbackend.tests\\features\\categories\\categorycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.tests\\features\\categories\\repositories\\categoryrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|solutionrelative:catalogbackend.tests\\features\\categories\\repositories\\categoryrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.tests\\catalogbackend.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|solutionrelative:catalogbackend.tests\\catalogbackend.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.tests\\features\\categories\\queries\\getallcategoriestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|solutionrelative:catalogbackend.tests\\features\\categories\\queries\\getallcategoriestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.tests\\features\\categories\\queries\\getcategorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|solutionrelative:catalogbackend.tests\\features\\categories\\queries\\getcategorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.tests\\features\\categories\\commands\\updatecategorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|solutionrelative:catalogbackend.tests\\features\\categories\\commands\\updatecategorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.tests\\features\\categories\\commands\\createcategorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|solutionrelative:catalogbackend.tests\\features\\categories\\commands\\createcategorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\commands\\updatecategory\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\commands\\updatecategory\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\commands\\updatecategory\\updatecategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\commands\\updatecategory\\updatecategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\commands\\updatecategory\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\commands\\updatecategory\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.api\\features\\categories\\commands\\createcategory\\createcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF787F69-27EE-4A63-9B8D-B012A927D5ED}|CatalogBackend.Api\\CatalogBackend.Api.csproj|solutionrelative:catalogbackend.api\\features\\categories\\commands\\createcategory\\createcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|c:\\users\\ron\\source\\repos\\catalogbackend\\catalogbackend.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62450CA-57B7-4817-9532-5167140F97E0}|CatalogBackend.Tests\\CatalogBackend.Tests.csproj|solutionrelative:catalogbackend.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetCategoryQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Queries\\GetCategory\\GetCategoryQuery.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Queries\\GetCategory\\GetCategoryQuery.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Queries\\GetCategory\\GetCategoryQuery.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Queries\\GetCategory\\GetCategoryQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:04:16.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Queries\\GetCategory\\GetCategoryHandler.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Queries\\GetCategory\\GetCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Queries\\GetCategory\\GetCategoryHandler.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Queries\\GetCategory\\GetCategoryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:55:57.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllCategoriesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesHandler.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesHandler.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesHandler.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:55:12.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\CategoryController.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:51:01.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\ApiResponse.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T02:36:34.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllCategoriesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesQuery.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesQuery.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesQuery.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:54:47.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Program.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:41:55.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:00:30.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:53:08.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\CategoryDto.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:56:09.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\appsettings.json",
+              "RelativeToolTip": "CatalogBackend.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T19:32:30.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:52:51.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CatalogBackend.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\CatalogBackend.Api.csproj",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\CatalogBackend.Api.csproj",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\CatalogBackend.Api.csproj",
+              "RelativeToolTip": "CatalogBackend.Api\\CatalogBackend.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T02:47:26.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\CategoryServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\CategoryServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\CategoryServiceCollectionExtensions.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\CategoryServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:45:25.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:00:12.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:39:27.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Data\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Data\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Data\\Entities\\Category.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Data\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:21:04.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAllCategoriesDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesDto.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesDto.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesDto.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Queries\\GetAllCategories\\GetAllCategoriesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:55:26.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\CategoryProfile.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:56:45.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\CategoryControllerTests.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Tests\\Features\\Categories\\CategoryControllerTests.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\CategoryControllerTests.cs",
+              "RelativeToolTip": "CatalogBackend.Tests\\Features\\Categories\\CategoryControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:10:46.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\Repositories\\CategoryRepositoryTests.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Tests\\Features\\Categories\\Repositories\\CategoryRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\Repositories\\CategoryRepositoryTests.cs",
+              "RelativeToolTip": "CatalogBackend.Tests\\Features\\Categories\\Repositories\\CategoryRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:10:02.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CatalogBackend.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\CatalogBackend.Tests.csproj",
+              "RelativeDocumentMoniker": "CatalogBackend.Tests\\CatalogBackend.Tests.csproj",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\CatalogBackend.Tests.csproj",
+              "RelativeToolTip": "CatalogBackend.Tests\\CatalogBackend.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T03:07:12.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetAllCategoriesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\Queries\\GetAllCategoriesTests.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Tests\\Features\\Categories\\Queries\\GetAllCategoriesTests.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\Queries\\GetAllCategoriesTests.cs",
+              "RelativeToolTip": "CatalogBackend.Tests\\Features\\Categories\\Queries\\GetAllCategoriesTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:09:37.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetCategoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\Queries\\GetCategoryTests.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Tests\\Features\\Categories\\Queries\\GetCategoryTests.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\Queries\\GetCategoryTests.cs",
+              "RelativeToolTip": "CatalogBackend.Tests\\Features\\Categories\\Queries\\GetCategoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:09:18.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateCategoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\Commands\\UpdateCategoryTests.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Tests\\Features\\Categories\\Commands\\UpdateCategoryTests.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\Commands\\UpdateCategoryTests.cs",
+              "RelativeToolTip": "CatalogBackend.Tests\\Features\\Categories\\Commands\\UpdateCategoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:08:54.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateCategoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\Commands\\CreateCategoryTests.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Tests\\Features\\Categories\\Commands\\CreateCategoryTests.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\Features\\Categories\\Commands\\CreateCategoryTests.cs",
+              "RelativeToolTip": "CatalogBackend.Tests\\Features\\Categories\\Commands\\CreateCategoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:08:27.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateCategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:54:21.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:54:04.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Commands\\UpdateCategory\\UpdateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:53:44.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateCategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "RelativeToolTip": "CatalogBackend.Api\\Features\\Categories\\Commands\\CreateCategory\\CreateCategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:53:23.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CatalogBackend.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Ron\\source\\repos\\CatalogBackend\\CatalogBackend.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CatalogBackend.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:46:52.156Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
